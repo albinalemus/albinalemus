@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @albinalemus
-- 👀 I’m interested in Java software testing.
+- 👀 I’m interested in Java, SQL, Python, Selenium and software testing.
 - 🌱 I’m currently learning to combine my set of skills to help people.
-- 💞️ I’m looking to collaborate on programs' tips and tricks.
+- 💞️ I’m looking to collaborate on projects, and love tips and tricks!
 - 📫 You can reach me through contact@albinalemus.com
 
 <!---

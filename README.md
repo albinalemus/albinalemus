@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @albinalemus
-- 👀 I'm an SDET.
-- 💞️ Looking to collaborate!
+- 👀 I'm an SDET, and looking to collaborate.
 - 📫 Reach me: contact@albinalemus.com
 
 <!---

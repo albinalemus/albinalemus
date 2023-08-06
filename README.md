@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albinalemus
-- 👀 I'm an SDET, and looking to collaborate.
+- 👀 I'm interested in creating cool projects and developing the best testing framework.
 - 📫 Reach me: contact@albinalemus.com
 
 <!---

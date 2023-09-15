@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albinalemus
-- 👀 I'm interested in creating cool projects and developing the best testing framework.
+- 👀 I'm interested in creating cool projects and developing testing frameworks.
 - 📫 Reach me: contact@albinalemus.com
 
 <!---
